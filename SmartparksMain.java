@@ -4,7 +4,7 @@
 package com.mycompany.smartparks;
 import java.util.Scanner;
 
-public class Smartparks {
+public class SmartparksMain {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
